@@ -2,6 +2,7 @@ baseURL = "https://danielmartins.org"
 languageCode = "en-us"
 title = "Daniel Martins"
 theme = "resume"
+publishDir = "docs"
 
 [params]
     firstName = "Daniel"
