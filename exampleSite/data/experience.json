@@ -1,20 +1,23 @@
 [
     {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.",
-        "range":"February 2016 - Present"
+        "role":"Senior Consultant",
+        "company":"(Zero)70 IT Services",
+        "company_url":"https://zero70.com/",
+        "summary":"Supporting the application development and maintenance of <a href='https://www.outsystems.com/case-studies/van-ameyde/echo/'>ECHO</a>, for the Van Ameyde Group",
+        "range":"January 2015 - Present"
     },
     {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
+        "role":"IT Consultant",
+        "company":"Glintt",
+        "company_url":"http://www.glintt.com/",
+        "summary":"Developing web business applications in the context of agile projects.",
+        "range":"October 2010 - December 2014"
     },
     {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "role":"Junior Consultant",
+        "company":"Logica",
+        "company_url":"http://www.logica.com/",
+        "summary":"Outsystems and .NET Developer",
+        "range":"February 2008 - October 2010"
     }
 ]

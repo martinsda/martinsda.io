@@ -1,15 +1,13 @@
 [
     {
-        "school":"Rochester Institute of Technology",
-        "degree":"Bachelor of Science",
-        "major":"Management Information Systems",
-        "notes":"Beta Gamma Signma, High Honors",
-        "range":"2006 - 2008"
+        "school":"British Council",
+        "degree":"First certificate in English",
+        "range":"November 2017"
     },
     {
-        "school":"Clinton Community College",
-        "degree":"Associate of Applied Science",
-        "major":"Computer Information Systems",
-        "range":"2004 - 2006"
+        "school":"Universidade Nova de Lisboa",
+        "degree":"Bachelor of Science (BSc)",
+        "major":"Computer Engineering",
+        "range":"2002 - 2007"
     }
 ]

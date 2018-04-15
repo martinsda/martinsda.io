@@ -1,23 +1,25 @@
-baseURL = "https://example.com/"
+baseURL = "https://danielmartins.org"
 languageCode = "en-us"
-title = "Eddie Webb"
+title = "Daniel Martins"
 theme = "resume"
 
 [params]
-    firstName = "Eddie"
-    lastName = "Webb"
-    address = "Rollinsford, NH"
-    phone = "1-555-555-1234"
-    contactNote = "Dev Tools Engineer"
-    profileImage = "img/TechChat.png"
-    email = "email@domain.com"
-    description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
+    firstName = "Daniel"
+    lastName = "Martins"
+    address = "Lisbon, Portugal"
+    phone = "+351 91906735"
+    contactNote = "Consultant"
+    profileImage = "img/IMG2.jpg"
+    email = "info@danielmartins.org"
+    emailencoded = "&#109;&#97;&#105;&#108;&#116;&#111;&#58;%69%6E%66%6F%40%64%61%6E%69%65%6C%6D%61%72%74%69%6E%73%2E%6F%72%67"
+    description = "OutSystems Professional Developer, solution analysist and developer, IT Consultant"
+    keywords = "Outsystems, Outsystems Developer, web developer, consultant, java, ruby, ruby on rails, php, web development, mysql, web applications developer"
     favicon = "images/favicon.ico"
     # what sections
     showSkills = true
-    showProjects = true
-    showOpenSource = true
-    showPublications = true
+    showProjects = false
+    showOpenSource = false
+    showPublications = false
     showExperience = true
     showEducation = true
 
@@ -25,26 +27,13 @@ theme = "resume"
 
 [[params.handles]]
     name = "LinkedIn"
-    link = "https://www.linkedin.com/in/edwardwebb/"
-
-
-[[params.handles]]
-    name = "GitHub"
-    link = "https://github.com/eddiewebb/"
+    link = "https://www.linkedin.com/in/dmartins/"
 
 [[params.handles]]
-    name = "Bitbucket"
-    link = "https://bitbucket.org/eddiewebb/"
+    name = "Medium"
+    link = "https://medium.com/@martinsda/"
 
-[[params.handles]]
-    name = "Stack Overflow"
-    link = "https://stackoverflow.com/users/story/82880"
-    icon = "stack-overflow"
-
-[[params.handles]]
-    name = "Keybase"
-    link = "https://keybase.io/edwardawebb"
-    icon = "key"
 
 [params.google.analytics]
     trackerID = "XX-123446-01"
+
