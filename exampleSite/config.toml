@@ -1,8 +1,8 @@
-baseURL = "https://danielmartins.org"
+baseURL = "https://martinsda.github.io/martinsda.io/"
 languageCode = "en-us"
 title = "Daniel Martins"
 theme = "resume"
-publishDir = "docs"
+
 
 [params]
     firstName = "Daniel"
