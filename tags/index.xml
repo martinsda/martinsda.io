@@ -2,246 +2,246 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Daniel Martins</title>
-    <link>http://danielmartins.org/tags/</link>
+    <link>https://martinsda.github.io/martinsda.io/tags/</link>
     <description>Recent content in Tags on Daniel Martins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Nov 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://danielmartins.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://martinsda.github.io/martinsda.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Agile</title>
-      <link>http://danielmartins.org/tags/agile/</link>
+      <link>https://martinsda.github.io/martinsda.io/tags/agile/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://danielmartins.org/tags/agile/</guid>
+      <guid>https://martinsda.github.io/martinsda.io/tags/agile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Atlassian Developer Ecosystem</title>
-      <link>http://danielmartins.org/tags/atlassian-developer-ecosystem/</link>
+      <link>https://martinsda.github.io/martinsda.io/tags/atlassian-developer-ecosystem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://danielmartins.org/tags/atlassian-developer-ecosystem/</guid>
+      <guid>https://martinsda.github.io/martinsda.io/tags/atlassian-developer-ecosystem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Atlassian Ecosystem</title>
-      <link>http://danielmartins.org/tags/atlassian-ecosystem/</link>
+      <link>https://martinsda.github.io/martinsda.io/tags/atlassian-ecosystem/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>http://danielmartins.org/tags/atlassian-ecosystem/</guid>
+      <guid>https://martinsda.github.io/martinsda.io/tags/atlassian-ecosystem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bamboo</title>
-      <link>http://danielmartins.org/tags/bamboo/</link>
+      <link>https://martinsda.github.io/martinsda.io/tags/bamboo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://danielmartins.org/tags/bamboo/</guid>
+      <guid>https://martinsda.github.io/martinsda.io/tags/bamboo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bash/Shell</title>
-      <link>http://danielmartins.org/tags/bash/shell/</link>
+      <link>https://martinsda.github.io/martinsda.io/tags/bash/shell/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>http://danielmartins.org/tags/bash/shell/</guid>
+      <guid>https://martinsda.github.io/martinsda.io/tags/bash/shell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bitbucket</title>
-      <link>http://danielmartins.org/tags/bitbucket/</link>
+      <link>https://martinsda.github.io/martinsda.io/tags/bitbucket/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://danielmartins.org/tags/bitbucket/</guid>
+      <guid>https://martinsda.github.io/martinsda.io/tags/bitbucket/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bosh</title>
-      <link>http://danielmartins.org/tags/bosh/</link>
+      <link>https://martinsda.github.io/martinsda.io/tags/bosh/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>http://danielmartins.org/tags/bosh/</guid>
+      <guid>https://martinsda.github.io/martinsda.io/tags/bosh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ci/Cd Pipelines</title>
-      <link>http://danielmartins.org/tags/ci/cd-pipelines/</link>
+      <link>https://martinsda.github.io/martinsda.io/tags/ci/cd-pipelines/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://danielmartins.org/tags/ci/cd-pipelines/</guid>
+      <guid>https://martinsda.github.io/martinsda.io/tags/ci/cd-pipelines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Confluence</title>
-      <link>http://danielmartins.org/tags/confluence/</link>
+      <link>https://martinsda.github.io/martinsda.io/tags/confluence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://danielmartins.org/tags/confluence/</guid>
+      <guid>https://martinsda.github.io/martinsda.io/tags/confluence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuous Delivery</title>
-      <link>http://danielmartins.org/tags/continuous-delivery/</link>
+      <link>https://martinsda.github.io/martinsda.io/tags/continuous-delivery/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://danielmartins.org/tags/continuous-delivery/</guid>
+      <guid>https://martinsda.github.io/martinsda.io/tags/continuous-delivery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Continuous Integration</title>
-      <link>http://danielmartins.org/tags/continuous-integration/</link>
+      <link>https://martinsda.github.io/martinsda.io/tags/continuous-integration/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://danielmartins.org/tags/continuous-integration/</guid>
+      <guid>https://martinsda.github.io/martinsda.io/tags/continuous-integration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Culture</title>
-      <link>http://danielmartins.org/tags/culture/</link>
+      <link>https://martinsda.github.io/martinsda.io/tags/culture/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://danielmartins.org/tags/culture/</guid>
+      <guid>https://martinsda.github.io/martinsda.io/tags/culture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Devops</title>
-      <link>http://danielmartins.org/tags/devops/</link>
+      <link>https://martinsda.github.io/martinsda.io/tags/devops/</link>
       <pubDate>Tue, 08 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://danielmartins.org/tags/devops/</guid>
+      <guid>https://martinsda.github.io/martinsda.io/tags/devops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Docker</title>
-      <link>http://danielmartins.org/tags/docker/</link>
+      <link>https://martinsda.github.io/martinsda.io/tags/docker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://danielmartins.org/tags/docker/</guid>
+      <guid>https://martinsda.github.io/martinsda.io/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Java</title>
-      <link>http://danielmartins.org/tags/java/</link>
+      <link>https://martinsda.github.io/martinsda.io/tags/java/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>http://danielmartins.org/tags/java/</guid>
+      <guid>https://martinsda.github.io/martinsda.io/tags/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Javascript</title>
-      <link>http://danielmartins.org/tags/javascript/</link>
+      <link>https://martinsda.github.io/martinsda.io/tags/javascript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://danielmartins.org/tags/javascript/</guid>
+      <guid>https://martinsda.github.io/martinsda.io/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jira</title>
-      <link>http://danielmartins.org/tags/jira/</link>
+      <link>https://martinsda.github.io/martinsda.io/tags/jira/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://danielmartins.org/tags/jira/</guid>
+      <guid>https://martinsda.github.io/martinsda.io/tags/jira/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jquery</title>
-      <link>http://danielmartins.org/tags/jquery/</link>
+      <link>https://martinsda.github.io/martinsda.io/tags/jquery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://danielmartins.org/tags/jquery/</guid>
+      <guid>https://martinsda.github.io/martinsda.io/tags/jquery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Json</title>
-      <link>http://danielmartins.org/tags/json/</link>
+      <link>https://martinsda.github.io/martinsda.io/tags/json/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://danielmartins.org/tags/json/</guid>
+      <guid>https://martinsda.github.io/martinsda.io/tags/json/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maven</title>
-      <link>http://danielmartins.org/tags/maven/</link>
+      <link>https://martinsda.github.io/martinsda.io/tags/maven/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://danielmartins.org/tags/maven/</guid>
+      <guid>https://martinsda.github.io/martinsda.io/tags/maven/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monit</title>
-      <link>http://danielmartins.org/tags/monit/</link>
+      <link>https://martinsda.github.io/martinsda.io/tags/monit/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>http://danielmartins.org/tags/monit/</guid>
+      <guid>https://martinsda.github.io/martinsda.io/tags/monit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Node.js</title>
-      <link>http://danielmartins.org/tags/node.js/</link>
+      <link>https://martinsda.github.io/martinsda.io/tags/node.js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://danielmartins.org/tags/node.js/</guid>
+      <guid>https://martinsda.github.io/martinsda.io/tags/node.js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>http://danielmartins.org/tags/python/</link>
+      <link>https://martinsda.github.io/martinsda.io/tags/python/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>http://danielmartins.org/tags/python/</guid>
+      <guid>https://martinsda.github.io/martinsda.io/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rest Apis</title>
-      <link>http://danielmartins.org/tags/rest-apis/</link>
+      <link>https://martinsda.github.io/martinsda.io/tags/rest-apis/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>http://danielmartins.org/tags/rest-apis/</guid>
+      <guid>https://martinsda.github.io/martinsda.io/tags/rest-apis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spring</title>
-      <link>http://danielmartins.org/tags/spring/</link>
+      <link>https://martinsda.github.io/martinsda.io/tags/spring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://danielmartins.org/tags/spring/</guid>
+      <guid>https://martinsda.github.io/martinsda.io/tags/spring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xml/Xslt</title>
-      <link>http://danielmartins.org/tags/xml/xslt/</link>
+      <link>https://martinsda.github.io/martinsda.io/tags/xml/xslt/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
       
-      <guid>http://danielmartins.org/tags/xml/xslt/</guid>
+      <guid>https://martinsda.github.io/martinsda.io/tags/xml/xslt/</guid>
       <description></description>
     </item>
     
