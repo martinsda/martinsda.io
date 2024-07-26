@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://danielmartins.org/categories/</loc>
+    <loc>https://danielmartins.org/categories/</loc>
   </url><url>
-    <loc>http://danielmartins.org/</loc>
+    <loc>https://danielmartins.org/</loc>
   </url><url>
-    <loc>http://danielmartins.org/search/</loc>
+    <loc>https://danielmartins.org/search/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://danielmartins.org/tags/</loc>
+    <loc>https://danielmartins.org/tags/</loc>
   </url>
 </urlset>
