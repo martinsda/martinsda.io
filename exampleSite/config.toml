@@ -8,13 +8,12 @@ theme = "resume"
     firstName = "Daniel"
     lastName = "Martins"
     address = "Lisbon, Portugal"
-    phone = "+351 91906735"
-    contactNote = "Consultant"
-    profileImage = "img/IMG2.jpg"
-    email = "info@danielmartins.org"
-    emailencoded = "&#109;&#97;&#105;&#108;&#116;&#111;&#58;%69%6E%66%6F%40%64%61%6E%69%65%6C%6D%61%72%74%69%6E%73%2E%6F%72%67"
-    description = "OutSystems Professional Developer, solution analysist and developer, IT Consultant"
-    keywords = "Outsystems, Outsystems Developer, web developer, consultant, java, ruby, ruby on rails, php, web development, mysql, web applications developer"
+    phone = ""
+    contactNote = "Reach me on LinkedIn (https://linkedin.com/in/dmartins)"
+    profileImage = "img/IMG_0280.JPG"
+    email = ""
+    description = "Working within the Enteprise Architecture team as Solutions Architect and ex-OutSystems Professional Developer, Solution analysist and developer, IT Consultant"
+    keywords = "Enteprise Architect, Solutions Architect, Outsystems, Outsystems Developer, web developer, consultant, java, ruby, ruby on rails, php, web development, mysql, web applications developer"
     favicon = "images/favicon.ico"
     # what sections
     showSkills = true
@@ -33,6 +32,11 @@ theme = "resume"
 [[params.handles]]
     name = "Medium"
     link = "https://medium.com/@martinsda/"
+
+[[params.handles]]
+    name = "CV"
+    link = "files/Daniel_Martins_CV.pdf"
+    icon = "file-pdf-o"
 
 
 [params.google.analytics]

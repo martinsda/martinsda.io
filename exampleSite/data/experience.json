@@ -1,10 +1,45 @@
 [
     {
+        "role":"Solution Design Architect",
+        "company":"Santander",
+        "company_url":"https://www.santander.pt/",
+        "summary":"Working within the Enterprise Architecture team to develop high-level architecture designs that detail the structure and behavior of the proposed IT solutions. Ensure that solutions are scalable, secure, and well integrated with existing systems and infrastructure - following the architecture guidelines, bank policies and architecture principles.",
+        "range":"Jun 2024 - Present"
+    },
+    {
+        "role":"Manager, Solution Engineering",
+        "company":"OutSystems",
+        "company_url":"https://www.outsystems.com/",
+        "summary":"Guiding and coaching team members to provide business, technical, and product knowledge. Working closely with different sales RVPs and Account Executives across different territories to jointly manage key accounts, ensuring visibility of pipeline and coverage as we grow the customer base. Hiring, on-boarding, training and motivating one global team to perform at an exceptional level.",
+        "range":"May 2022 - Jun 2024"
+    },
+    {
+        "role":"Lead Solution Architect",
+        "company":"OutSystems",
+        "company_url":"https://www.outsystems.com/",
+        "summary":"Hiring, on-boarding, training, and developing new Solutions Engineers from internal and external sources. Building and retaining an effective and efficient Solution Engineer team.",
+        "range":"Apr 2021 - May 2022"
+    },
+    {
+        "role":"Solution Architect",
+        "company":"OutSystems",
+        "company_url":"https://www.outsystems.com/",
+        "summary":"Working as an IT expert and evangelist while supporting customers in their technical evaluation process by delivering high quality presentations and workshops (to Developers, Architects, IT managers and CxOs).",
+        "range":"Oct 2018 - Apr 2021"
+    },
+    {
+        "role":"Partner Success Manager",
+        "company":"OutSystems",
+        "company_url":"https://www.outsystems.com/",
+        "summary":"Managing the Partner Technical Enablement program for EMEA. Delivering and promoting technical advisory and evangelization sessions to leverage partners technical expertise.",
+        "range":"May 2018 - Oct 2018"
+    },
+    {
         "role":"Senior Consultant",
         "company":"(Zero)70 IT Services",
         "company_url":"https://zero70.com/",
         "summary":"Supporting the application development and maintenance of <a href='https://www.outsystems.com/case-studies/van-ameyde/echo/'>ECHO</a>, for the Van Ameyde Group",
-        "range":"January 2015 - Present"
+        "range":"January 2015 - May 2018"
     },
     {
         "role":"IT Consultant",
